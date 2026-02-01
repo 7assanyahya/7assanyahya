@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Hassan Yahya! 
-### Full-Stack Developer | Problem Solver | Tech Enthusiast
+### Full-Stack Developer | Problem Solver | UI/UX
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=7assanyahya&label=Profile%20views&color=0e75b6&style=flat" alt="7assanyahya" />
